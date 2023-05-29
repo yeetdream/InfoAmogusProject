@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from pprint import pprint
 
 def parse_books(url):
     response = requests.get(url)
@@ -13,4 +14,4 @@ def parse_books(url):
     return books
 
 url = 'http://books.toscrape.com/catalogue/category/books/classics_6/index.html'
-print(parse_books(url))
+pprint(parse_books(url))
