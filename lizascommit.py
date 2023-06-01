@@ -1,0 +1,1 @@
+print ("Victor wanted to otmyt` bitcoin but we fortunately stopped him. Idk what else to add as for my commit since guys ctrl c`ed the whole code from our telegram chat and ctrl v`ed here. #we #love #ranepa")
